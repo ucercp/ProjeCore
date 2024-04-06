@@ -1,0 +1,11 @@
+C:\Users\recep\source\repos\ProjeCore\ProjeCore\bin\Debug\netcoreapp2.0\ProjeCore.deps.json
+C:\Users\recep\source\repos\ProjeCore\ProjeCore\bin\Debug\netcoreapp2.0\ProjeCore.runtimeconfig.json
+C:\Users\recep\source\repos\ProjeCore\ProjeCore\bin\Debug\netcoreapp2.0\ProjeCore.runtimeconfig.dev.json
+C:\Users\recep\source\repos\ProjeCore\ProjeCore\bin\Debug\netcoreapp2.0\ProjeCore.dll
+C:\Users\recep\source\repos\ProjeCore\ProjeCore\bin\Debug\netcoreapp2.0\ProjeCore.pdb
+C:\Users\recep\source\repos\ProjeCore\ProjeCore\obj\Debug\netcoreapp2.0\ProjeCore.csprojAssemblyReference.cache
+C:\Users\recep\source\repos\ProjeCore\ProjeCore\obj\Debug\netcoreapp2.0\ProjeCore.csproj.CoreCompileInputs.cache
+C:\Users\recep\source\repos\ProjeCore\ProjeCore\obj\Debug\netcoreapp2.0\ProjeCore.AssemblyInfoInputs.cache
+C:\Users\recep\source\repos\ProjeCore\ProjeCore\obj\Debug\netcoreapp2.0\ProjeCore.AssemblyInfo.cs
+C:\Users\recep\source\repos\ProjeCore\ProjeCore\obj\Debug\netcoreapp2.0\ProjeCore.dll
+C:\Users\recep\source\repos\ProjeCore\ProjeCore\obj\Debug\netcoreapp2.0\ProjeCore.pdb
